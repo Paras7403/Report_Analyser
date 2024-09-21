@@ -57,5 +57,5 @@ pdf = "<path_to_your_blood_test_report.pdf>"
 
 # Notes
 - Ensure your PDF blood test report is formatted properly for text extraction.
-- The health recommendations are based on automated web research; always consult a healthcare professional for medical advice.
+- The health recommendations are based on automated web research and always consult a healthcare professional for medical advice.
 
