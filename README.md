@@ -38,3 +38,20 @@ Download the PDF blood test report you want to analyze and update the file path 
 ```bash
 pdf = "<path_to_your_blood_test_report.pdf>"
 ```
+
+---
+
+# Running the Workflow
+- **Open the Jupyter Notebook** : Open the Jupyter Notebook containing the workflow.
+- **Execute the Cells** : Run the cells in the notebook sequentially, or execute all at once depending on your preference.
+- **Review the Output** : Upon execution, you'll receive a summary of blood test results and personalized health recommendations based on web research.
+
+---
+
+# Workflow Agents
+- **Blood Test Analyst** : Extracts and analyzes the blood test results.
+- **Article Researcher** : Searches for articles related to any abnormal findings or relevant health metrics.
+- **Health Advisor** : Provides health recommendations based on the research and analysis.
+
+---
+
