@@ -1,26 +1,37 @@
 # Blood Test Analysis Workflow
-This Jupyter Notebook automates the process of analyzing blood test reports and providing health recommendations based on the findings. It utilizes CrewAI, a library for task automation and delegation, along with PyPDF2 for reading PDF files and some additional tools for searching the web.
 
-# Approach:
-Reading Blood Test Reports: The notebook extracts text from specific pages of a PDF blood test report using PyPDF2.
+This Jupyter Notebook automates the analysis of blood test reports and provides health recommendations based on the findings. The workflow leverages **CrewAI** for task automation, **PyPDF2** for reading PDF files, and additional tools for web research.
 
-Agent and Task Definition: We define three types of agents - Blood Test Analyst, Article Researcher, and Health Advisor. Each agent has a specific role in the workflow. Tasks are also defined, each assigned to a specific agent.
+## Features
 
-Executing Tasks: The Crew is formed with agents and tasks. Each task is executed sequentially, passing context from one task to another.
+- **Blood Test Report Reading**: Extracts data from specific pages of a PDF blood test report.
+- **Automated Task Assignment**: Uses various agents (Blood Test Analyst, Article Researcher, Health Advisor) to analyze, research, and provide health recommendations.
+- **Seamless Workflow Execution**: Tasks are executed sequentially, passing context from one to another for efficient processing.
 
-# Steps to Run the Code:
-1) Install Required Packages: Make sure you have Python installed on your system. Install the required packages using pip:
+---
 
-CODE:- 
+## Prerequisites
+
+Before running the notebook, ensure that you have the following requirements:
+
+### 1. Install Required Packages
+
+Ensure Python is installed, and then install the required libraries by running the following command:
+
+```bash
 pip install crewai PyPDF2
 
-2) Set Up API Keys: Before running the notebook, replace the empty strings with your API keys. Update the following lines with your Serper API key and OpenAI API key:
+### 2. Set Up API Keys
 
+The workflow requires API keys for certain tasks. Set up your environment by replacing the placeholders with your actual keys.
+
+```bash
 os.environ["SERPER_API_KEY"] = "<your_serper_api_key>"
 os.environ["OPENAI_API_KEY"] = "<your_openai_api_key>"
 
-3) Download PDF Blood Test Report: Download the PDF blood test report that you want to analyze and update the pdf variable in the notebook with the correct file path.
+### 3.  Download PDF Blood Test Report
 
-4) Run the Notebook: Execute the Jupyter Notebook. You can run each cell one by one or all at once, depending on your preference.
+Download the PDF blood test report you want to analyze and update the file path in the notebook.
 
-5) Review Output: Once the notebook completes execution, review the output. You should see the summary of blood test results and health recommendations based on the articles found.
+```bash
+pdf = "<path_to_your_blood_test_report.pdf>"
