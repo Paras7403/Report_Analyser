@@ -20,6 +20,7 @@ Ensure Python is installed, and then install the required libraries by running t
 
 ```bash
 pip install crewai PyPDF2
+```
 
 ### 2. Set Up API Keys
 
@@ -28,6 +29,7 @@ The workflow requires API keys for certain tasks. Set up your environment by rep
 ```bash
 os.environ["SERPER_API_KEY"] = "<your_serper_api_key>"
 os.environ["OPENAI_API_KEY"] = "<your_openai_api_key>"
+```
 
 ### 3.  Download PDF Blood Test Report
 
@@ -35,3 +37,4 @@ Download the PDF blood test report you want to analyze and update the file path 
 
 ```bash
 pdf = "<path_to_your_blood_test_report.pdf>"
+```
